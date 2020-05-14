@@ -1,0 +1,13 @@
+ O volume na unidade C ‚ OS
+ O N£mero de S‚rie do Volume ‚ 8218-E002
+
+ Pasta de C:\Users\Glau\Documents\treinando-git
+
+13/05/2020  21:42    <DIR>          .
+13/05/2020  21:42    <DIR>          ..
+13/05/2020  21:42                 0 filename.txt
+16/04/2020  13:41            71.188 ListaServidores16042020164136.csv
+12/05/2020  17:28           246.940 oi.pdf
+12/05/2020  18:32           324.026 SQL.docx
+               4 arquivo(s)        642.154 bytes
+               2 pasta(s)   929.767.890.944 bytes dispon¡veis
